@@ -5,7 +5,7 @@
 - 📫 Reach me on emenikeakachukwu1@gmail.com
 - ⚡ Fun fact:I make really interesting power point presentations 
 - 💻 Here is the link to some of my repositories;
-   -https://github.com/AK-154/Excel-Projects (Excel projects)
+- https://github.com/AK-154/Excel-Projects (Excel projects)
 
 <!---
 AK-154/AK-154 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
